@@ -1,0 +1,6 @@
+'fEr!gr9ht' True
+'FER!GR9T' True
+'4r3ff' False
+'fer!gr9ht' False
+'fEr!grht' False
+'feRgr9ht' False
